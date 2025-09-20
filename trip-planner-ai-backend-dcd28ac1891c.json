@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "trip-planner-ai-backend",
+  "private_key_id": "dcd28ac1891cbb5b1f26c971035cdb99a47acc8f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQCbtRaemQWxVzWj\n8Xu3k3kZrEHCPuVZTuAuvMkE4UQOfeF3kDRguDgQ+0XdL/ycnJz9YlbPJ0EFfzrE\ncFLuZVr/Uz0MITFNXTdgQflUoYCE+ByWQyUjyh3RFhcdFhDzFPvtwkPPA8cZzgsR\nQPB1gO+q+bGbWPeBiTpH2BPAlaRmOsOTV7Fe0G9HH8954glQp5QEzojFHe13U5rH\nNR+C8M+vf0qkHze9kpTuq8s3wan0SfCLL0jwkC2wSA/w6NHAMHzAmyGDdBMsybI5\nhGS2qU0pc4TBo4wDLJ0Citz5UFy+KDK72rlWW62tIDLUirAiYlqVrK+HUNWNDvD0\nAyGgN4RZAgMBAAECgf8XFQE4mynJrRcgKbjtV2J1+J/6HtjHV6n9qhhVx0JCsIAV\nkvFj/rfqmVU1NNsXXFNP1jdU/iMYoLbvGx387FZRA0XjEzvIlcj5VZstSiocv0Sw\nzpAmF6nT4cwLXWByqINJyHXE4NdJbzUbM0U+8tFhYLwZ2CM/HXJGTc6fysJUMdnj\nqeFwbMQwXV7E1ARP4AleLkvYK42TmOkuS+SUprJP/AEn4WfLDJQ/PzODiQt0Xy9E\n0hXe5zfqErY+TiZLKwmGJlkfNCYa9thge3dYuMSDFcgJCCNGIfPyNh18wD+U0aDq\nXz+PUvPYABQUF32qxxseiMKXU9voi4EcBkqtxC0CgYEAzCY2IVI2WD5+femHvySN\n3fT32IHefTF1LqjOBKtq06AtJDoR1AzOn6aL6D4JgMPliYjzC9Bunkj+5M7ynEUC\nTlkTEky5Ou1v2+i9sO4wSOS17I+SxL7dgYjk6EFotm1DU2BXYsuarrO05l2m7tsv\n2dRKX3rBQi1jbhMgFpS4IPUCgYEAw0EvQcfCMJMLgI6tW8b3/fNjlBj5+ZIX2Ijv\ni6ZR2+0L4VZA6x6wlS5Qzf3bhKldurf/KUiunnaFXZ1K6kYbbC5H014uDn1SwB1S\nuPwopZm356hdL8lmMuQiVopDJpqkuKzLbJZoiypOetDPDMU3aCdPkEy6aPhvDSLM\nxjdKZ1UCgYBMIZPeKUKK9gNGAWjWJ1OgilJDM2s9VMxWci0iIKrd8MXk1KMBaSVE\n9F8IZNo2YteeyquYpEocTSyBN4vSKwoJHb62/FW3XARzBgB3ktv+0wvlBEW/iU4h\nmGOFGZ9rKKQK28q61SMCM5IqtpIiUSsvGLQDl0uq2jJSQl+dDCj+YQKBgQCmqAKw\nANLNJxVQO3fYuDF//rhl9hOXY40a83aTGfkQ4HmdckOi6+UI0CmESUOPLgikkNwn\n3rO86ajXyKPi5sgNREtmLCLflzSEagLrhb8j6drAzkILwbmLgpGUkBrU3nXucv6G\nxrKg5hFqXsP7QHIUYklU/0i0xCf1bFigbx0AqQKBgFdKXzsIaAzu0bIbIrpcix9C\n1vz+Gff8N9fvCqcYm5fLECbBc55TVfPkfh+UB4NaaZSo06vUoULmK4Lze7jIayoA\nWmr2Rq8I8EuHlp/Mg51CPSV7tD7DqntUPU6kKAFYcdDVEKy0D86yqUi2Ky/Dsbc1\n9ZFoaZ62E6qsla9OeoSO\n-----END PRIVATE KEY-----\n",
+  "client_email": "trip-backend-sa@trip-planner-ai-backend.iam.gserviceaccount.com",
+  "client_id": "110378395147672864958",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/trip-backend-sa%40trip-planner-ai-backend.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

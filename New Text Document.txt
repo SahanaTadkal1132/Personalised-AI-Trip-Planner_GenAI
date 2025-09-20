@@ -1,0 +1,20 @@
+hegit openservice api key  = "eyJvcmciOiI1YjNjZTM1OTc4NTExMTAwMDFjZjYyNDgiLCJpZCI6ImQ3Yjc4NmJjYTAxYTQ1MzQ5ZWFjN2JkMTRhODJiMDU5IiwiaCI6Im11cm11cjY0In0="
+
+google ai studion key for gemini inetgration = "AIzaSyAH10DN27FyfUW1FOMpMY4BVfhihj7F4DU"
+
+
+
+Go to this link in your browser (it’s in the error itself):
+Enable Firestore API
+
+Click Enable.
+
+Then open Firebase Console → https://console.firebase.google.com/
+
+Select your project trip-planner-ai-backend.
+
+Go to Firestore Database → Click Create Database.
+
+Choose Start in test mode (since this is hackathon project, not production).
+
+Select your region → Enable.
